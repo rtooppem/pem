@@ -1,4 +1,4 @@
 Setting,Value
-WakeonLAN,Enable
+WakeonLAN,LanOnly
 PasswordBeep,Enable
 KeyboardBeep,Disable
